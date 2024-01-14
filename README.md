@@ -10,10 +10,6 @@ I'm Ewerton Veigas, a passionate DevOps engineer based in Brazil. Welcome to my 
 - 🏡 Proud to call Brazil my home.
 - 📚 Always on the lookout for new knowledge and challenges.
 
-#### Goals for 2021
-
-- 🚀 Create a new project that showcases my skills and interests.
-- 💼 Find an exciting new job opportunity to contribute my expertise.
 
 #### Connect with Me
 
@@ -49,10 +45,6 @@ Eu sou Ewerton Veigas, um apaixonado engenheiro DevOps baseado no Brasil. Bem-vi
 - 🏡 Orgulhosamente brasileiro.
 - 📚 Sempre em busca de novos conhecimentos e desafios.
 
-#### Metas para 2021
-
-- 🚀 Criar um novo projeto que demonstre minhas habilidades e interesses.
-- 💼 Encontrar uma nova e empolgante oportunidade de trabalho para contribuir com minha experiência.
 
 #### Conecte-se Comigo
 
