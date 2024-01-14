@@ -1,29 +1,51 @@
-# Welcome!
+Hi there! 👋
+I'm Ewerton Veigas, a passionate DevOps engineer based in Brazil. Welcome to my GitHub profile!
 
- 
+About Me
+💻 I specialize in AWS (Amazon Web Services), and my expertise extends to cloud architecture and deployment.
+🚀 Proficient in Ansible for automated configuration management and deployment.
+🌐 Fluent in Go and Python programming languages for building efficient and scalable solutions.
+🏡 Proud to call Brazil my home.
+📚 Always on the lookout for new knowledge and challenges.
+Goals for 2021
+🚀 Create a new project that showcases my skills and interests.
+💼 Find an exciting new job opportunity to contribute my expertise.
+Connect with Me
+Linkedin: https://www.linkedin.com/in/ewerton-veigas-40b713107/
 
-## I'm Ewerton Veigas!
+GitHub Stats
 
- 
+Languages and Tools
+AWS (Amazon Web Services)
+Ansible
+Go
+Python
 
-:computer: I'm DevOps!
+Thanks for Visiting!
+I appreciate you taking the time to explore my GitHub profile. Feel free to connect with me on LinkedIn and explore my projects. Enjoy your visit! o/
 
-:house_with_garden: I’m from Brazil.
+Olá! 👋
+Eu sou Ewerton Veigas, um apaixonado engenheiro DevOps baseado no Brasil. Bem-vindo ao meu perfil no GitHub!
 
-:books: I’m currently learning everything.
+Sobre Mim
+💻 Especializado em AWS (Amazon Web Services), com experiência em arquitetura e implementação na nuvem.
+🚀 Proficiente no Ansible para gerenciamento e implementação automatizados.
+🌐 Fluente nas linguagens de programação Go e Python para criar soluções eficientes e escaláveis.
+🏡 Orgulhosamente brasileiro.
+📚 Sempre em busca de novos conhecimentos e desafios.
+Metas para 2021
+🚀 Criar um novo projeto que demonstre minhas habilidades e interesses.
+💼 Encontrar uma nova e empolgante oportunidade de trabalho para contribuir com minha experiência.
+Conecte-se Comigo
+Linkedin: https://www.linkedin.com/in/ewerton-veigas-40b713107/
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+Estatísticas do GitHub
 
- 
+Linguagens e Ferramentas
+AWS (Amazon Web Services)
+Ansible
+Go
+Python
 
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/EwertonVeigas)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/ewerton-veigas-40b713107/)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+Obrigado pela Visita!
+Agradeço por dedicar um tempo para explorar meu perfil no GitHub. Sinta-se à vontade para se conectar comigo no LinkedIn e explorar meus projetos. Aproveite a visita! o/
